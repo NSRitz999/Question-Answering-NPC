@@ -1,0 +1,5 @@
+# Main Requirements
+
+transformers
+datasets
+evaluate
